@@ -21,3 +21,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+
+[![sben-ela's 42 stats](https://badge.mediaplus.ma/greenbinary/sben-ela)](https://github.com/sben-ela/badge42)
+
