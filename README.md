@@ -15,6 +15,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-[![sben-ela's 42 stats]([https://badge.mediaplus.ma/greenbinary/sben-ela)](https://github.com/sben-ela/badge42)
-
+[![sben-ela's 42 stats](https://badge.mediaplus.ma/greenbinary/sben-ela)](https://github.com/sben-ela/badge42)
 ![Your Image](https://user-images.githubusercontent.com/109746907/266770383-664ceb8b-081a-4f9e-b295-3bf00f058654.png)
