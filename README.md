@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **sbenarradia@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/benelarradia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ossamakhiar" height="30" width="40" /></a>
-</p>
 
 <div align="left">
 <h3 align="left">Languages and Tools:</h3>
