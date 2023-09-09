@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salah Eddine Ben Elarradia</h1>
 <h3 align="center">I'm a student at 1337 Bengurir (42 Network)</h3>
 
-[![MasterHead](https://drive.google.com/drive/folders/1YKPTWqAU-saR3HwtfpAvLnKnIaV29Ixm?auto=compress&cs=tinysrgb&w=600&lazy=load)](https://github.com/)
-
+![Alt text](/Users/sben-ela/Desktop/Screen%20Shot%202023-09-09%20at%209.35.30%20AM.png)
 - 🔭 I’m currently studying on [1337](https://www.um6p.ma/en/ecole-1337)
 
 - 🌱 I’m currently learning **42 cursus**
