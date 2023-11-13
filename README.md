@@ -1,4 +1,8 @@
-![Your Image]([https://dribbble.com/shots/6022014-Sacred-Geometry-Principles/attachments/11198383?mode=media])
+</p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Salah Eddine Ben Elarradia</h1>
 <h3 align="center">I'm a student at 1337 Bengurir (42 Network)</h3>
