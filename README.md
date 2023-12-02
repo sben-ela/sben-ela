@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">I'm Salah Eddine Ben Elarradia</h1>
+<h1 align="center">I'm SalahEddine Ben Elarradia</h1>
 <h3 align="center">I'm a student at 1337 Bengurir (42 Network)</h3>
 
 - 🔭 I’m currently studying on [1337](https://www.um6p.ma/en/ecole-1337)
