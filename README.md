@@ -22,3 +22,8 @@
 </div>
 
 [![sben-ela's 42 stats](https://badge.mediaplus.ma/greenbinary/sben-ela)](https://github.com/sben-ela/badge42)
+
+<br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kertgbh-nqt/kertgbh-nqt/output/github-contribution-grid-snake.svg" />
+  
+<br/><br/><br/>
